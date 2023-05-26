@@ -1,0 +1,1 @@
+A Person Detection Model is loaded and inferenced on a sample Video in the above Python Notebook. In future work, loading different models and comparing the Latencies and Accuracies etc.
